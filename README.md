@@ -1,11 +1,13 @@
 ## 👋 Hi, I’m @FranMendo2002
 ### 👀 I’m interested in Web development
-### 🌱 I’m currently learning React
+### 🌱 I’m currently learning Angular
 ### 💞️ Some websites:
   - https://bienesraicesmendoza.netlify.app
   - https://app-salon-mendoza.netlify.app
   - https://festival-rockandedm.netlify.app
   - https://blog-de-cafe-francomendoza.netlify.app
+### Angular Websites:
+    dbzpersonajes-mendoza.netlify.app
 
 <!---
 FranMendo2002/FranMendo2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
