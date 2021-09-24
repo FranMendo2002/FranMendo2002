@@ -7,7 +7,7 @@
   - [Festival Rock & Edm](https://festival-rockandedm.netlify.app)
   - [Blog de Café](https://blog-de-cafe-francomendoza.netlify.app)
 ### Angular Websites:
-  - [Dragon Ball Z](dbzpersonajes-mendoza.netlify.ap)
+  - [Dragon Ball Z](dbzpersonajes-mendoza.netlify.app)
 
 <!---
 FranMendo2002/FranMendo2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
