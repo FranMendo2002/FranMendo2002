@@ -6,10 +6,11 @@
   - [Salon Barbería](https://app-salon-mendoza.netlify.app)
   - [Festival Rock & Edm](https://festival-rockandedm.netlify.app)
   - [Blog de Café](https://blog-de-cafe-francomendoza.netlify.app)
+
 ### Angular Websites:
   - [Paises App](https://paisesmendoza.netlify.app)
   - [Gifs App](https://gifsmendoza.netlify.app)
-  - [Dragon Ball Z](https://dbzpersonajes-mendoza.netlify.app)
+  - [Mapas App](https://github.com/FranMendo2002/mapasApp)
   
 ### Node Apps:
   - [Rest Server](https://github.com/FranMendo2002/curso-node-restserver)
