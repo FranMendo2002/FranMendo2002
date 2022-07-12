@@ -10,7 +10,6 @@
 ### Angular Websites:
   - [Paises App](https://paisesmendoza.netlify.app)
   - [Gifs App](https://gifsmendoza.netlify.app)
-  - [Mapas App](https://github.com/FranMendo2002/mapasApp)
   
 ### Node Apps:
   - [Rest Server](https://github.com/FranMendo2002/curso-node-restserver)
