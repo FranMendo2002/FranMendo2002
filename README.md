@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @FranMendo2002
 ### 👀 I’m interested in Web development
-### 🌱 I’m currently learning Angular
+### 🌱 I’m currently learning AWS
 
 ### Node Apps:
   - [Rest Server](https://github.com/FranMendo2002/curso-node-restserver)
